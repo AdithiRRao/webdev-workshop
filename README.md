@@ -59,3 +59,4 @@ Try to create another branch and commit some more changes to the README file. Th
 
 Once you are done with this part of the workshop,
 - switch to **workshop/part1-html** branch where we will learn how to start building any website
+changes
